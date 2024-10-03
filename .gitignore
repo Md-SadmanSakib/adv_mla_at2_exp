@@ -178,8 +178,3 @@ cython_debug/
 
 
 
-
-# untrack file
-models/predictive/random_forest_model.joblib
-
-
